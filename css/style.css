@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: gray;
+    display: flex;
+    height: auto;
+}
+
+.headerButton {
+    text-decoration: none;
+    color: black;
+    height: 2rem;
+    padding: 1rem;
+}
+
+#timer {
+    color: black;
+}
+
+#unsaveTime {
+    display: none;
+}
